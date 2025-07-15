@@ -1,9 +1,7 @@
 # TTR: Test-Time Reasoning for Robust CLIP Zero-Shot Classification
 
-Official implementation for our ICCV 2025 submission on enhancing robustness in CLIP-based zero-shot classification through Test-Time Reasoning (TTR).
+Welcome! This is the official implementation for our ICCV 2025 paper on enhancing robustness in CLIP-based zero-shot classification through Test-Time Reasoning (TTR).
 
-## Overview
-This repository contains the source code, experiments, and instructions required to replicate our results. Our implementation builds upon [OpenCLIP](https://github.com/mlfoundations/open_clip), leveraging PyTorch, NumPy, and Pandas for analysis and visualization.
 
 ---
 
