@@ -20,8 +20,8 @@ Welcome! This is the official implementation of our ICCV 2025 paper, "Enhancing 
 Clone the repository and install the required dependencies:
 
 ```bash
-pip install -r requirements.txt
-pip install open_clip_torch
+conda env create -f environment.yaml --name newenv
+conda activate newenv
 ```
 
 ## Reproducing Experiment
@@ -37,7 +37,14 @@ Core blk.ipynb
 Core Wht.ipynb
 ```
 
-Semantic identification recipe
+
+- **`OV.ipynb`** – Baseline evaluation on the *Original Variant* dataset.  
+- **`Core blk.ipynb`** – Evaluation with a uniformly **black** background.  
+- **`Core Wht.ipynb`** – Evaluation with a uniformly **white** background.  
+
+
+
+Semantic identification recipe. 
 ```
 cd Ablation Introduction
 GDINO.ipynb
