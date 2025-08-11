@@ -67,4 +67,16 @@ Urbancars_final.ipynb
 ```
 
 
+### Attention Map Visualization Results
+
+To visualize the attention maps, run the following notebook:
+
+```bash
+Attention-TTR.ipynb
+'''
+
+This code is adapted from [Transformer-MM-Explainability](https://github.com/hila-chefer/Transformer-MM-Explainability).
+
+
+If you find this work interesting, please consider citing our paper.
 
