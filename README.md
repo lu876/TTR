@@ -4,6 +4,8 @@ Welcome! This is the official implementation of our ICCV 2025 paper, "Enhancing 
 
 **TL;DR**: We observe that CLIP makes accurate predictions in settings free of spurious features; CLIP model learned semantically meaningful representations. Motivated by those, we propose Test-Time Reasoning (TTR)—a simple yet effective method that improves robustness by identifying and removing irrelevant (spurious) features at inference time. TTR requires no additional training or spurious feature annotations and significantly enhances model robustness in zero-shot classification.
 
+![Attention map visualization](Figure/banner.png)
+
 ---
 
 ## Installation
