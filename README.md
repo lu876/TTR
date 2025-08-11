@@ -60,10 +60,10 @@ PCA+K-means.ipynb
 
 To reproduce the results from **Table&nbsp;3**, run the following notebooks. Each notebook can also display the reasoning results.
 ```
-Waterbirds_final.ipynb
-CelebA-final.ipynb
-Metashifts_final.ipynb
-Urbancars_final.ipynb
+Waterbirds.ipynb
+CelebA.ipynb
+Metashifts.ipynb
+Urbancars.ipynb
 ```
 
 
@@ -73,7 +73,7 @@ To visualize the attention maps, run the following notebook:
 
 ```bash
 Attention-TTR.ipynb
-'''
+```
 
 This code is adapted from [Transformer-MM-Explainability](https://github.com/hila-chefer/Transformer-MM-Explainability).
 
