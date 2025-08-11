@@ -29,7 +29,7 @@ We provide Jupyter notebooks to ensure transparency and easy reproducibility. Ea
 
 ### Variant of waterbirds dataset result
 
-To reproduce the main results from Table 1, run the notebooks:
+To reproduce the main results from **Table&nbsp;1**, run the notebooks:
 
 ```
 OV.ipynb
@@ -44,7 +44,9 @@ Core Wht.ipynb
 
 
 
-Semantic identification recipe. 
+### Semantic identification recipe. 
+
+To reproduce the results from **Table&nbsp;2**, run the following notebooks (each corresponding to a method presented in the paper):
 ```
 cd Ablation Introduction
 GDINO.ipynb
@@ -52,7 +54,9 @@ SAM+GDINO.ipynb
 PCA+K-means.ipynb
 ```
 
-Main results
+### Main results
+
+To reproduce the results from **Table&nbsp;3**, run the following notebooks. Each notebook can also display the reasoning results.
 ```
 Waterbirds_final.ipynb
 CelebA-final.ipynb
