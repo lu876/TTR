@@ -15,7 +15,7 @@ Welcome! This is the official implementation of our ICCV 2025 paper, "Enhancing 
 - Python 3.12
 - PyTorch ([installation guide](https://pytorch.org/get-started/locally/))
 - [OpenCLIP](https://github.com/mlfoundations/open_clip)
-- Other Python dependencies specified in [requirements.txt](requirements.txt)
+
 
 ### Steps to Install
 
